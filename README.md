@@ -8,5 +8,5 @@ Presented 17 March, 2020
 Contents inlude:
 
 - PDF of presentation
-- Jupyter notebook example
+- Jupyter notebook examples
 - Cantera input (CTI) files for SEI growth on a non-intercalating W anode: simple chemistry and (relatively) complex chemistry.
